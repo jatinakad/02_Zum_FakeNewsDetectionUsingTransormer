@@ -1,1 +1,1 @@
-# jatinakad-02_Zum_FakeNewsDetectionUsingTransormer
+# 02_Zum_FakeNewsDetectionUsingTransormer
